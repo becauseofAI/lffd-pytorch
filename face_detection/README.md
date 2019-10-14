@@ -18,6 +18,7 @@ on the way
 
 ### User Instructions
 > **Now only for traning v2 nightly.**  
+
 First, we introduce the functionality of each sub directory.
 * [net_farm](net_farm). This folder contains net definitions for all model versions.
 * [metric_farm](metric_farm). This folder contains the metrics for training monitoring.
@@ -32,7 +33,8 @@ Second, we present a common procedure for running the code for training (taking 
 2. prepare the training data by using the code in `data_provider_farm`. We provide a packed 
 training data of WIDERFACE trainset. Please download from **Data Download**.
 3. adjust the code around the line 241 in `data_iterator_farm/multithread_dataiter_for_cross_entropy_v2`.
-4. set the variables in configuration py script in `config_farm` and run `python configuration_10_320_20L_5scales_v2.py`.
+4. set the variables in configuration py script in `config_farm`.
+5. run `python configuration_10_320_20L_5scales_v2.py` in `config_farm` directory.
 
 ### Data Download
 We have packed the training data of WIDERFACE train set. In the data, the faces less than 8 pixels are ignored, and some pure negative 
