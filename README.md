@@ -77,9 +77,10 @@ year={2019}
 - [ ] [reconstruction version](https://github.com/becauseofAI/refinanet)
 
 ## Contact
-Yonghao He
+becauseofAI<sup>[1]</sup>, Yonghao He<sup>[2]</sup>
 
-E-mails: yonghao.he@ia.ac.cn / yonghao.he@aliyun.com
+<sup>[1]</sup>E-mails: helloai777@gmail.com  
+<sup>[2]</sup>E-mails: yonghao.he@ia.ac.cn / yonghao.he@aliyun.com
 
 **If you are interested in this work, any innovative contributions are welcome!!!**
 
