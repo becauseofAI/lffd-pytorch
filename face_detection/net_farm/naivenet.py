@@ -279,6 +279,7 @@ def get_naivenet(arch, block, layers):
 def naivenet25():
     r"""NaiveNet-25 model from
     `"LFFD: A Light and Fast Face Detector for Edge Devices" <https://arxiv.org/pdf/1904.10633.pdf>`_
+    It corresponds to the network structure built by `symbol_10_560_25L_8scales_v1.py` of mxnet version.
     """
     return get_naivenet('naivenet25', Resv2Block, [4, 2, 1, 3])
     # return get_naivenet('naivenet25', Resv1Block, [4, 2, 1, 3])
@@ -287,6 +288,7 @@ def naivenet25():
 def naivenet20():
     r"""NaiveNet-20 model from
     `"LFFD: A Light and Fast Face Detector for Edge Devices" <https://arxiv.org/pdf/1904.10633.pdf>`_
+    It corresponds to the network structure built by `symbol_10_320_20L_5scales_v2.py` of mxnet version.
     """
     return get_naivenet('naivenet20', Resv2Block, [3, 1, 1, 1, 1])
     # return get_naivenet('naivenet20', Resv1Block, [3, 1, 1, 1, 1])

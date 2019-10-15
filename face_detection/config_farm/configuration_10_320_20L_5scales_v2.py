@@ -100,7 +100,7 @@ param_model_save_interval = 100000
 param_hnm_ratio = 5
 
 # init learning rate
-param_learning_rate = 0.001
+param_learning_rate = 0.1
 # weight decay
 param_weight_decay = 0.00001
 # momentum

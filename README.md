@@ -2,7 +2,8 @@
 **This repo is updated frequently, keeping up with the latest code is highly recommended.**
 
 ## Recent Update
-* `2019.10.14`  The official PyTorch version of LFFD is first online. Now the repo is only preview version. Face detection code for v2 version is released nightly.
+* `2019.10.14` The official PyTorch version of LFFD is first online. Now the repo is only preview version. Face detection code for v2 version is released nightly.
+* `2019.10.16` Now the face detection code for v2 version can train normally. The code of other tasks will be updated soon.
 
 ## Introduction
 This repo is the official PyTorch source code of paper "[LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/abs/1904.10633)". Our paper presents a light and fast face detector (**LFFD**) for edge devices.
