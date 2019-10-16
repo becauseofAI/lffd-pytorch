@@ -9,7 +9,7 @@ been presented in repo README.md.
 ### Brief Introduction to Model Version
 * v1 - refer to the paper for details
 * v2 - the detection scale is 10-320 (vs 10-560 in v1), the number of layers is 20, 
-the backbone is modified for faster inference. Refer to `./net_farm/symbol_structures.xlsx` for details.
+the backbone is modified for faster inference. Refer to `./net_farm/naivenet_structures.xlsx` for details.
 
 ### Accuracy
 on the way
