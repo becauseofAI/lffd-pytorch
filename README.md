@@ -26,7 +26,7 @@ Several practical advantages:
 on the way
 
 ## Getting Started
-We re-implement the proposed method using PyTorch.
+We re-implement the proposed method using PyTorch. The MXNet Version is [here](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 
 #### Prerequirements (global)
 * Python>=3.5
