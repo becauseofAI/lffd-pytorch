@@ -4,6 +4,7 @@ been presented in repo README.md.
 
 ### Recent Update
 * `2019.10.14` The model v2 can be tried to train nightly.
+* `2019.10.16` **The model v2 can be trained normally.**
 
 ### Brief Introduction to Model Version
 * v1 - refer to the paper for details
